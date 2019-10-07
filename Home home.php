@@ -38,6 +38,9 @@
 	 opacity:0.5;
 	 font-size:19px;	 
  }
+ h3{
+	 color:red;
+ }
  .menu ul li ul li{
 	 display:none;
  }
@@ -65,18 +68,22 @@ button{
 	font-family:sans-serif;
 	border:none;
 	font-size:16px;
+	
+	
 }
 </style>	  
-  <body background="Drip 1.jpg">
+  <body background="white">
     <h1><center><i>LEGACY PLACE STORES </i></center></h1>
+	<center><img src="Logo.jpg"  alt="Test Image" border="0"/> </center>
     <h2>HOME OF DRIP</h2>
+	<h2>JOIN US TODAY!!</br> &darr; &darr; &darr; &darr; &darr;</h2> 
 	<nav class ="menu">
 	<ul>
 	<li><a>Sign up/Log in</a>
 	    <ul>
 		  <li><a href="#Admin_login">Admin</a></li>
 	      <li><a href="#Vendor_login">Vendor</a></li>
-		  <li><a href="#Customer_login">Customer</a></li>
+		  <li><a href="Login.php">Customer</a></li>
 		</ul>
 	</li>
 	<li><a href="#men">MEN</a></li>
@@ -90,6 +97,10 @@ button{
 	<button> Search</button>  
 	</form>
 	</nav>
+	<img src="Drip 1.jpg" height ="300" width = "400" border="3"</><h4><strike>KSH 5000</strike></h4><h4>KSH 4000</h4>
+	<img src="Drip 2.jpg" height ="300" width ="400" border="3"</><h4><strike>KSH 4500</strike></h4><h4>KSH 3000</h4>
+	<img src="Drip 3.jpg" height ="300" width ="400" border="3"/><h4><strike>KSH 3500</strike></h4><h4>KSH 2500</h4>
+    <h3>ABOUT US</h3>	
         <p align="left" >We offer a quality service by supplying clothing and accessories at the most </br>competitive prices and the best quality in the market.
 		Legacy Stores Place,</br> have many years of experience in exporting and importing clothes and shoes, </br>working with the companies of collection 
 of clothing in Europe and UK, </br>so that our company has the best clothing and accessories in the market.</br>
